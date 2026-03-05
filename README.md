@@ -100,13 +100,13 @@ Steps:
 
 Insert image in GitHub like this:
 
-![Simulation Waveform](results/waveforms/waveform.png)
+![Simulation Waveform](waveform.png)
 
 ---
 
 ## TCL Console Output
 
-![TCL Console Output](results/tcl_console/console_output.png)
+![TCL Console Output](console_output.png)
 
 ---
 
